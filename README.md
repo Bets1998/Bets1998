@@ -133,6 +133,6 @@ I believe good data work is more than building a model.
 
 I'm open to opportunities in **Data Analytics, Data Science, Machine Learning, and related roles**.
 
-📍 Thane, Maharashtra, India
+📍 Mumbai, Maharashtra, India
 
 [LinkedIn](https://www.linkedin.com/in/betsy24/) • [Medium](https://medium.com/@varghesebetsy919)

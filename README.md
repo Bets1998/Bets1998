@@ -1,6 +1,6 @@
 # Hi, I'm Betsy Varghese 👋
 
-I'm a **Data Analyst transitioning from financial operations into data analytics and data science**, with nearly 4 years of professional experience in reconciliation, reporting, process automation, UAT, and business operations.
+I'm an **Aspiring Data Analyst transitioning from financial operations into data analytics and data science**, with nearly 4 years of professional experience in reconciliation, reporting, process automation, UAT, and business operations.
 
 I am a self learner and I enjoy turning messy data and business problems into **actionable insights, analytical solutions, and intelligent applications**.
 

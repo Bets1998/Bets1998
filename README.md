@@ -1,7 +1,5 @@
 # Hi, I'm Betsy Varghese 👋
 
-### Data Analyst | Data Science & Machine Learning | GenAI
-
 I'm a **Data Analyst transitioning from financial operations into data analytics and data science**, with nearly 4 years of professional experience in reconciliation, reporting, process automation, UAT, and business operations.
 
 I am a self learner and I enjoy turning messy data and business problems into **actionable insights, analytical solutions, and intelligent applications**.
